@@ -1,0 +1,6 @@
+# Verified installable together, July 2026 (herbie-data 2026.3.0)
+herbie-data>=2026.3.0
+pandas
+numpy
+requests
+gdacs-api

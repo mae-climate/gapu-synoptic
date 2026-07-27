@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# index.html is generated fresh by the GitHub Action each run and
+# deployed straight to Pages -- it's a build artifact, not source.
+# Don't commit whatever gets written locally while testing.
+scripts/index.html
+_site/
